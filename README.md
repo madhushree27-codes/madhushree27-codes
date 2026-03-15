@@ -1,5 +1,5 @@
 # 💫 About Me:
-CSE student passionate about building innovative solutions. Keen on exploring AI, full-stack development, cybersecurity while contributing to open-source communities.
+CSE student passionate about building innovative solutions. Keen on exploring AI and full-stack development while contributing to open-source communities.
 
 
 ## 🌐 Socials:
